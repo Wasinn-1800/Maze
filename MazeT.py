@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 17 20:34:19 2025
 
-@author: Wasinn_1800
+@author: Wasinn-1800
 """
 
 # Completed maze program
